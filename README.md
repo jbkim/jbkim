@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<div align=center>
+<div align=left>
 
 ![GitHub followers](https://img.shields.io/github/followers/jbkim?style=social)
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fjbkim&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
@@ -12,11 +12,11 @@
 - Korean translation: [Fritzing](https://fritzing.org/), [Arduino IDE](https://www.transifex.com/mbanzi/arduino-ide-15/dashboard/), [Cura](https://github.com/Ultimaker/Cura), [M5stack UI Flow](https://flow.m5stack.com/), [OSHW definition](https://www.oshwa.org/definition/korean/
 
 ### Interest
-- TinyML, ToTm IoMT
+- TinyML, IoT, IoMT
 - Embedded boards, Keyboard ⌨️, Books 📚
 
 
-<div align=center>
+<div align=left>
 
 
 [![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=wordpress&link=https://openmicrolab.com/)](https://openmicrolab.com/) 
