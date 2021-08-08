@@ -22,7 +22,7 @@
 [![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=wordpress&link=https://openmicrolab.com/)](https://openmicrolab.com/) 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jinbuhmkim/)](https://www.linkedin.com/in/jinbuhmkim/) 
 [![Twitter Badge](https://img.shields.io/twitter/follow/EspressoDopio?style=social&logo=Twitter&link=https://twitter.com/espressodopio)](https://twitter.com/espressodopio)
-[![Instagram Badge](https://img.shields.io/badge/-Instagram-dd2a7b?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/jinbuhm/)](https://www.instagram.com/jinbuhm/)
+<!-- [![Instagram Badge](https://img.shields.io/badge/-Instagram-dd2a7b?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/jinbuhm/)](https://www.instagram.com/jinbuhm/) -->
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:Jinbuhm.Kim@gmail.com)](mailto:Jinbuhm.Kim@gmail.com)
 
 </div>
