@@ -9,7 +9,7 @@
 
 ### Embedded Hardware & Software Engineer
 - Developed Laser Printer, IoT Device, SIP Chip, 3D Printer, etc. and is currently working for a health care company.
-- Korean translation: [Fritzing](https://fritzing.org/), [Arduino IDE](https://www.transifex.com/mbanzi/arduino-ide-15/dashboard/), [Cura](https://github.com/Ultimaker/Cura), [M5stack UI Flow](https://flow.m5stack.com/), [OSHW definition](https://www.oshwa.org/definition/korean/
+- Korean translation: [Fritzing](https://fritzing.org/), [Arduino IDE](https://www.transifex.com/mbanzi/arduino-ide-15/dashboard/), [Cura](https://github.com/Ultimaker/Cura), [M5stack UI Flow](https://flow.m5stack.com/), [OSHW definition](https://www.oshwa.org/definition/korean/)
 
 ### Interest
 - TinyML, IoT, IoMT, Embedded System
